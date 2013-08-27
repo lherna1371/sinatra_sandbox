@@ -1,0 +1,17 @@
+.container {
+  margin: 20px auto;
+  width: 600px;
+  padding: 0px 20px 20px 20px;
+  border: 1px dotted black;
+}
+
+.results {
+  background-image: url("/superhero.jpeg");
+  position: fixed;
+  top: 0;
+  height: 10%;
+}
+
+th {
+  text-align: left;
+}
